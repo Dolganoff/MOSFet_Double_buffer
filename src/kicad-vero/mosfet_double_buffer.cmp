@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-07 BZR 5316)-product   date = 11/01/2015 22:46:26
+
+BeginCmp
+TimeStamp = /54B2D9A5;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D1EE;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = Custom:C2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D22D;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBEE;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Custom:C2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBF4;
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Custom:C1V5-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D777;
+Reference = P1;
+ValeurCmp = InA;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D88C;
+Reference = P2;
+ValeurCmp = OutA;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DC10;
+Reference = P3;
+ValeurCmp = InB;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DC17;
+Reference = P4;
+ValeurCmp = OutB;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2EDE7;
+Reference = P5;
+ValeurCmp = Power;
+IdModule  = Custom:SIL-2-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D049;
+Reference = Q1;
+ValeurCmp = BS170;
+IdModule  = Housings_TO-92:TO-92-Free-rugged;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBCF;
+Reference = Q2;
+ValeurCmp = BS170;
+IdModule  = Housings_TO-92:TO-92-Free-rugged;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D0ED;
+Reference = R1;
+ValeurCmp = 1.5Meg;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D114;
+Reference = R2;
+ValeurCmp = 1.5Meg;
+IdModule  = Custom:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2D133;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBD5;
+Reference = R4;
+ValeurCmp = 1.5Meg;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBDB;
+Reference = R5;
+ValeurCmp = 1.5Meg;
+IdModule  = Custom:R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B2DBE1;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Custom:R3-LARGE_PADS;
+EndCmp
+
+EndListe
