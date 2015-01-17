@@ -8,7 +8,7 @@
     (drawings 4)
     (tracks 84)
     (zones 0)
-    (modules 20)
+    (modules 24)
     (nets 11)
   )
 
@@ -642,6 +642,54 @@
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
+  )
+
+  (module Custom:track_drill (layer F.Cu) (tedit 54B2AFB3) (tstamp 54B2EF62)
+    (at 132.08 96.52)
+    (fp_text reference o (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad 1 connect rect (at 0 0 45) (size 1.524 1.524) (layers *.Mask B.SilkS Dwgs.User)
+      (die_length 0.254))
+  )
+
+  (module Custom:track_drill (layer F.Cu) (tedit 54B2AFB3) (tstamp 54B2EF65)
+    (at 132.08 99.06)
+    (fp_text reference o (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad 1 connect rect (at 0 0 45) (size 1.524 1.524) (layers *.Mask B.SilkS Dwgs.User)
+      (die_length 0.254))
+  )
+
+  (module Custom:track_drill (layer F.Cu) (tedit 54B2AFB3) (tstamp 54B2EF67)
+    (at 132.08 106.68)
+    (fp_text reference o (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad 1 connect rect (at 0 0 45) (size 1.524 1.524) (layers *.Mask B.SilkS Dwgs.User)
+      (die_length 0.254))
+  )
+
+  (module Custom:track_drill (layer F.Cu) (tedit 54B2AFB3) (tstamp 54B2EF69)
+    (at 132.08 109.22)
+    (fp_text reference o (at 0 0) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.5 1.5) (thickness 0.15)))
+    )
+    (pad 1 connect rect (at 0 0 45) (size 1.524 1.524) (layers *.Mask B.SilkS Dwgs.User)
+      (die_length 0.254))
   )
 
   (gr_line (start 142.24 81.28) (end 119.38 81.28) (angle 90) (layer Edge.Cuts) (width 0.1))
